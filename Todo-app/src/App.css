@@ -1,0 +1,21 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+}
+body{
+  justify-content: center;
+  background: linear-gradient(white,rgb(53, 135, 202));
+}
+
+h1 {
+  text-align: center;
+}
+
+input, textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+button {
+  margin-right: 1rem;
+}
